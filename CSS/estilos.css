@@ -7,36 +7,3 @@ body {
     padding: 0%;
 
 }
-
-<<<<<<< HEAD
-#container 
-=======
-#Cabecera
-{
-    background:  #33A;
-    text-shadow: -1px -2px 11px rgba(0,0,0,0.67);
-    color:  white;
-    font-weight: bold;
-    box-shadow: -14px 12px 67px -13px rgba(135,43,43,0.8);
-    margin:  0;
-    padding: 0.5em;
-}
-#Cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-#container
->>>>>>> 2435037 (Finalizado la rama cabecera con diseno azul)
-{
-    width: 70%;
-    padding: 1cm;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto;
-}
-#container h1
-{
-    font-size:  20px;
-}
