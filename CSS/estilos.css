@@ -1,7 +1,7 @@
 body {
     text-align: center;
     color: #333;
-    font-family: "curier";
+    font-family: "Arial";
     font-size: 16px;
     margin: 8;
     padding: 0%;
@@ -12,9 +12,9 @@ body {
 {
     background:  #33A;
     text-shadow: -1px -2px 11px rgba(0,0,0,0.67);
-    color:  white;
+    color:  greenyellow;
     font-weight: bold;
-    box-shadow: -14px 12px 67px -13px rgba(135,43,43,0.8);
+    box-shadow: 0px 0px 0px 0px rgba(135,43,43,0.8);
     margin:  0;
     padding: 0.5em;
 }
